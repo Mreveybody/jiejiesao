@@ -1,4 +1,4 @@
-var baseurl = 'http://art.xlxpx.com';
+var baseurl = 'http://ぬ.ひ.みんな';
 if ($) {
     $(function () {
         $('div[data-txt]').each(function (i) {
