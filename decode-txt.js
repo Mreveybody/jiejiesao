@@ -1,4 +1,4 @@
-var baseurl = 'http://ぬ.ひ.みんな/txt';
+var baseurl = 'https://ぬ.ひ.みんな/txt';
 if ($) {
     $(function () {
         $('div[data-txt]').each(function (i) {
