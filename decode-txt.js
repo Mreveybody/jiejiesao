@@ -15,4 +15,4 @@ if ($) {
 
 //引入方法<div id="news" data-txt="/lb/1/1.txt"></div>
 
-<div id="news" data-txt="/lb/SM/42/04/21/y0WF5w4ap0ad1lj2"></div>
+//<div id="news" data-txt="/lb/SM/42/04/21/y0WF5w4ap0ad1lj2"></div>
