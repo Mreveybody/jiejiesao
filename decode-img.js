@@ -1,4 +1,4 @@
-var imgurl = 'http://artimg.xlxpx.com';
+var imgurl = 'http://ぬ.ひ.みんな';
 if ($) {
     $(function () {
         $('img[data-aes=true]').each(function (i) {
