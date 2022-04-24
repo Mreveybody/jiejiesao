@@ -144,5 +144,5 @@ if(window.console && window.console.log){
     console.log('\n %c Wordpress二次开发定制 %c \u9020\u798f\u4eba\u7c7b \n', 'color:#fff;background:#f80;padding:5px 0;', 'color:#fff;background:#333;padding:5px 0;');
     console.log("%c \u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0077\u0077\u0077\u002e\u0062\u0061\u0069\u0064\u0075\u002e\u0063\u006f\u006d", "");
 };
-//分析
+//Data Analysis
 var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?e3ab77b323939ccd692307b2e548afd0";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);})();
