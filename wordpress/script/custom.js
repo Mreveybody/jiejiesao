@@ -146,3 +146,20 @@ if(window.console && window.console.log){
 };
 //Data Analysis
 var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?e3ab77b323939ccd692307b2e548afd0";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);})();
+
+//Friendly Tips
+var OriginTitile = document.title,
+titleTime;
+document.addEventListener("visibilitychange",
+function() {
+	if (document.hidden) {
+		document.title = "📚如何才能提升学习效率?";
+		clearTimeout(titleTime)
+	} else {
+		document.title = "🎉又回来奖励自己了?";
+		titleTime = setTimeout(function() {
+			document.title = OriginTitile
+		},
+		2000)
+	}
+});
