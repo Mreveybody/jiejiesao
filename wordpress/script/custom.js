@@ -148,21 +148,7 @@ if(window.console && window.console.log){
 var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?e3ab77b323939ccd692307b2e548afd0";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);})();
 
 //Friendly Tips
-var OriginTitile = document.title,
-titleTime;
-document.addEventListener("visibilitychange",
-function() {
-	if (document.hidden) {
-		document.title = "📚如何才能提升学习效率?";
-		clearTimeout(titleTime)
-	} else {
-		document.title = "🎉又回来奖励自己了?";
-		titleTime = setTimeout(function() {
-			document.title = OriginTitile
-		},
-		2000)
-	}
-});
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('5 3=0.1,2;0.6("7",4(){8(0.9){0.1="📚\\a\\b\\c\\d\\e\\f\\g\\h\\i\\j?";k(2)}l{0.1="🎉\\m\\n\\o\\p\\q\\r\\s\\t?";2=u(4(){0.1=3},v)}});',32,32,'document|title|titleTime|OriginTitile|function|var|addEventListener|visibilitychange|if|hidden|u5982|u4f55|u624d|u80fd|u63d0|u5347|u5b66|u4e60|u6548|u7387|clearTimeout|else|u53c8|u56de|u6765|u5956|u52b1|u81ea|u5df1|u4e86|setTimeout|2000'.split('|'),0,{}));
 //xs
 eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('2 3=\'5://ぬ.ひ.みんな/6\';7($){$(0(){$(\'8[9-1]\').c(0(i){2 b=4;$.d(3+4.e.1+\'.1\',{},0(a){b.f=g.h.j(a)})})})}k{}',21,21,'function|txt|var|baseurl|this|https|art|if|div|data|||each|get|dataset|innerHTML|window|Base64||decode|else'.split('|'),0,{}));
 
